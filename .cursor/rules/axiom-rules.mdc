@@ -1,0 +1,10 @@
+---
+Redux Toolkit for complex state, React Query for data fetching
+Radix UI/Headless UI/shadcn/ui for accessible components
+Performance: memoized components, no layout shifts, <100ms interactions
+Atomic Architecture: reusable components, custom hooks, shared utilities, DRY principles
+Code quality: comprehensive typing, error handling, documented complex logic (bonus)
+Must score ≥ 90 on Lighthouse (mobile & desktop) 
+
+alwaysApply: true
+---
